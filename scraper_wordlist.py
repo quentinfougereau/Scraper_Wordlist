@@ -54,7 +54,7 @@ def get_existant_wordlist(file):
 
 tool_desc = """This tool create a wordlist from a given website """
 usage = """
-Usage: scrapper_wordlist.py <url> [-a|-w] <output>
+Usage: scraper_wordlist.py <url> [-a|-w] <output>
     <url>: source to scrap (ie. https://www.python.org/)
     <output>: file to write scrapped data as a wordlist (ie. my_wordlist.txt)
 
