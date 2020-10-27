@@ -9,7 +9,7 @@ This tool scraps a specified website and creates wordlist from its content.
     scraper_wordlist.py <url> [-a|-w] <output>
 
 * url: source to scrap (ie. https://www.python.org/)
-* output: file to write scrapped data as a wordlist (ie. my_wordlist.txt)
+* output: file to write scraped data as a wordlist (ie. my_wordlist.txt)
 
 * [-a|-w]: those are optionnals :
   * -a : append to a file
